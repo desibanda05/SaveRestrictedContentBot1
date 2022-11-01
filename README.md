@@ -2,7 +2,7 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://t.me/Fojishahabkijai)
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
 
